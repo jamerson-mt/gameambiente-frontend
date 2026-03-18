@@ -1,10 +1,11 @@
 # 🎮 Game Ambiental
 
-Um jogo educativo desenvolvido com o objetivo de conscientizar jogadores sobre a preservação ambiental. Através de desafios e atividades interativas, o projeto ensina práticas sustentáveis e a importância da conservação de recursos naturais.
+Um jogo educativo desenvolvido com **Vue.js**, com o objetivo de conscientizar jogadores sobre a preservação ambiental. Através de desafios e atividades interativas, o projeto ensina práticas sustentáveis e a importância da conservação de recursos naturais.
 
 ---
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
@@ -19,10 +20,11 @@ O **Game Ambiental** une gamificação e educação. O foco é transformar o apr
 * Uso consciente de recursos naturais.
 
 ## 🛠️ Tecnologias Utilizadas
-* **Linguagem:** JavaScript / TypeScript.
+* **Framework Frontend:** Vue.js (versão 3 recomendado).
+* **Linguagem:** JavaScript (ou TypeScript, ajuste se necessário).
+* **Ferramenta de Build:** Vite (badge adicionado acima, ajuste se usar Webpack).
 * **Ambiente de Execução:** Node.js.
 * **Gerenciador de Pacotes:** npm.
-* **Frontend:** Vue.js.
 
 ## 🚀 Como Executar
 
