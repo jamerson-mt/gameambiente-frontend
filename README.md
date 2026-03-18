@@ -21,7 +21,7 @@ O **Game Ambiental** une gamificação e educação. O foco é transformar o apr
 
 ## 🛠️ Tecnologias Utilizadas
 * **Framework Frontend:** Vue.js (versão 3 recomendado).
-* **Linguagem:** JavaScript (ou TypeScript, ajuste se necessário).
+* **Linguagem:** JavaScript / typescript.
 * **Ferramenta de Build:** Vite (badge adicionado acima, ajuste se usar Webpack).
 * **Ambiente de Execução:** Node.js.
 * **Gerenciador de Pacotes:** npm.
