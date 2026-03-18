@@ -1,53 +1,37 @@
-# Game Ambiental
+# 🎮 Game Ambiental
 
-## Descrição
-Game Ambiental é um jogo educativo focado em conscientizar os jogadores sobre a importância da preservação ambiental. O jogo apresenta diversos desafios e atividades que ensinam práticas sustentáveis e a importância da conservação dos recursos naturais.
+Um jogo educativo desenvolvido com o objetivo de conscientizar jogadores sobre a preservação ambiental. Através de desafios e atividades interativas, o projeto ensina práticas sustentáveis e a importância da conservação de recursos naturais.
 
-## Pré-requisitos
-Certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
+---
 
-## Instalação
-Para instalar e rodar o projeto localmente, siga os passos abaixo:
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+</div>
 
-1. Clone o repositório:
-    ```bash
-    git clone https://github.com/seu-usuario/gameambiental.git
-    ```
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd gameambiental
-    ```
-3. Instale as dependências:
-    ```bash
-    npm install
-    ```
+---
 
-## Uso
-Para iniciar o jogo, execute o comando:
-```bash
-npm run dev
-```
-O jogo estará disponível em `http://localhost:3000`.
+## 🍃 Sobre o Projeto
+O **Game Ambiental** une gamificação e educação. O foco é transformar o aprendizado sobre sustentabilidade em uma experiência prática, abordando temas como:
+* Descarte correto de resíduos.
+* Preservação de ecossistemas.
+* Uso consciente de recursos naturais.
 
-## Contribuição
-Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
+## 🛠️ Tecnologias Utilizadas
+* **Linguagem:** JavaScript / TypeScript.
+* **Ambiente de Execução:** Node.js.
+* **Gerenciador de Pacotes:** npm.
+* **Frontend:** Vue.js / React (Ajuste aqui conforme seu código).
 
-1. Faça um fork do projeto.
-2. Crie uma branch para sua feature:
-    ```bash
-    git checkout -b minha-feature
-    ```
-3. Commit suas mudanças:
-    ```bash
-    git commit -m 'Adiciona minha feature'
-    ```
-4. Faça o push para a branch:
-    ```bash
-    git push origin minha-feature
-    ```
-5. Abra um Pull Request.
+## 🚀 Como Executar
 
-## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+### Pré-requisitos
+Certifique-se de ter as seguintes ferramentas instaladas:
+* [Node.js](https://nodejs.org/) (Versão LTS recomendada).
+* [npm](https://www.npmjs.com/).
+
+### Instalação e Uso
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/jamerson-mt/gameambiental.git](https://github.com/jamerson-mt/gameambiental.git)
