@@ -22,7 +22,7 @@ O **Game Ambiental** une gamificação e educação. O foco é transformar o apr
 * **Linguagem:** JavaScript / TypeScript.
 * **Ambiente de Execução:** Node.js.
 * **Gerenciador de Pacotes:** npm.
-* **Frontend:** Vue.js / React (Ajuste aqui conforme seu código).
+* **Frontend:** Vue.js.
 
 ## 🚀 Como Executar
 
